@@ -10,7 +10,11 @@ Return the head of the merged linked list.
 
 Example 1:
 
-![image](https://user-images.githubusercontent.com/67059999/178348087-9e45b838-a536-4358-9e86-5c3a103e3b26.png)
+1--->2--->4
+
+1--->3--->4
+
+1--->1--->2--->3--->4--->4
 
 Input: list1 = [1,2,4], list2 = [1,3,4]
 
