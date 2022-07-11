@@ -4,7 +4,9 @@ Given the head of a singly linked list, reverse the list, and return the reverse
 
 Example 1:
 
-![image](https://user-images.githubusercontent.com/67059999/178356041-91bd89e2-f76f-4ab6-8d7a-bf1dc9e3e811.png)
+1--->2--->3--->4--->5
+
+5--->4--->3--->2--->1
 
 Input: head = [1,2,3,4,5]
 
@@ -13,7 +15,9 @@ Output: [5,4,3,2,1]
 
 Example 2:
 
-![image](https://user-images.githubusercontent.com/67059999/178356130-6f8baba9-9bf6-4155-be46-993d09d0105e.png)
+1--->2
+
+2--->1
 
 Input: head = [1,2]
 
